@@ -1,0 +1,15 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: sa_development
+  pool: 5
+  username: nurami
+  password: nurami
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: sa_test
+  pool: 5
+  username: nurami
+  password: nurami
