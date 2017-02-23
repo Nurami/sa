@@ -34,6 +34,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'rspec-rails'
 gem 'capybara'
 gem 'selenium-webdriver'
+gem 'guard-rspec', require: false
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
